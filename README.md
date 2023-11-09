@@ -1,2 +1,3 @@
-# docs
-Passcryptum Documentation
+# Passcryptum
+
+Documentation
