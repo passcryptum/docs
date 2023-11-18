@@ -12,10 +12,10 @@ If you will use the different origin password, you will create another account.
 
 An only strong password you will:
 
-* Remember.
-* Use to log in the Passcryptum.
+- Remember.
+- Use to log in the Passcryptum.
 
-[//]: # (> [Recommendations on creation of the origin password]&#40;docs/recommendations#origin-password&#41;.)
+[//]: # '> [Recommendations on creation of the origin password](docs/recommendations#origin-password).'
 
 > [Log in the Passcryptum](../how-tos/general.md#log-in-passcryptum)
 

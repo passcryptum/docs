@@ -8,5 +8,5 @@ The Passcryptum calculates passwords every time it runs. There is no need to sto
 
 Use the Passcryptum overview sections:
 
-* [Glossary](glossary.md)
-* [Get started](get-started.md)
+- [Glossary](glossary.md)
+- [Get started](get-started.md)
