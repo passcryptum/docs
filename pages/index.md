@@ -4,21 +4,20 @@ layout: home
 
 hero:
   name: Passcryptum
-  text: Cryptographic password manager
+  text: Open-source cryptographic password manager
   tagline: Remember only one password and have unique strong passwords for each of your accounts
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+  image:
+    src: images/main-screens.png
+    alt: Main application screens
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Get started
+    details: Start your of strong passwords journey with the Passcryptum
+    link: '/overview/get-started'
+  - title: How-tos
+    details: Use the Passcryptum how-tos about every action
+    link: '/how-tos/'
+#  - title: References
+#    details: Explore the Passcryptum additional information
+#    link: '/references/'
 ---
