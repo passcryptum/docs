@@ -4,8 +4,26 @@
 
 To run the Passcryptum mobile or desktop offline application:
 
+* Either you have or not a Passcryptum account, use the [PWA method](#pwa-method).
 * If you have a [Passcryptum account](../overview/glossary.md#passcryptum-account), use the [Existing account](#existing-account) instruction.
 * If you don’t have a Passcryptum account, use the [Non-existing account](#non-existing-account) instruction.
+
+### PWA method
+
+Progressive Web Application (PWA) is a way to run the Passcryptum without transferring the services’ data.
+
+To run the application:
+
+1. [Log in the Passcryptum](general.md#log-in-passcryptum).
+1. In the address bar, click the PWA icon.
+
+    ![The PWA icon in the address bar](../images/pwa/install-icon.png "The PWA icon in the address bar")
+
+1. In the <b>Install app?</b> popup, click <b>Install</b>.
+
+    ![The Install app? popup](../images/pwa/install-window.png "The Install app? popup")
+
+The application will open in a new window.
 
 ### Existing account
 
@@ -28,6 +46,13 @@ To run the Passcryptum mobile or desktop offline application:
 ### Web application
 
 1. Go to the [Passcryptum page](https://passcryptum.com/).
+1. Click the <b>Password</b> tab.
+1. Enter the [origin password](../overview/glossary.md#origin-password).
+1. Click <b>Continue</b>.
+
+### PWA method {#log-in-pwa-method}
+
+1. [Run the PWA method](#pwa-method).
 1. Click the <b>Password</b> tab.
 1. Enter the [origin password](../overview/glossary.md#origin-password).
 1. Click <b>Continue</b>.
