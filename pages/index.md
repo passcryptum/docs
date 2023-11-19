@@ -17,7 +17,4 @@ features:
   - title: How-tos
     details: Use the Passcryptum how-tos about every action
     link: '/how-tos/'
-#  - title: References
-#    details: Explore the Passcryptum additional information
-#    link: '/references/'
 ---

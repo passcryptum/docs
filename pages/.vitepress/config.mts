@@ -7,7 +7,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'GitHub', link: '/markdown-examples' },
+      { text: 'GitHub', link: 'https://github.com/nelkor/passcryptum' },
     ],
     sidebar: [
       {
@@ -27,12 +27,6 @@ export default defineConfig({
           { text: 'PIN', link: '/how-tos/pin' },
         ],
       },
-      // {
-      //   text: 'References',
-      //   items: [
-      //     { text: 'General', link: '/references/general' },
-      //   ],
-      // },
     ],
     socialLinks: [
       {
@@ -52,7 +46,7 @@ export default defineConfig({
             '</defs>\n' +
             '</svg>',
         },
-        link: 'https://github.com/nelkor/passcryptum',
+        link: 'https://t.me/passcryptum',
         ariaLabel: 'News on @passcryptum',
       },
       {

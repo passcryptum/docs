@@ -3,7 +3,7 @@
 [About a PIN](../overview/glossary.md#pin).
 
 ::: tip
-If you forgot a PIN, delete it and set a new one.
+If you forgot a PIN, set a new one. Your current PIN will be replaced with the new one.
 :::
 
 ## Set PIN
