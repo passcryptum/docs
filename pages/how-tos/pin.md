@@ -3,12 +3,12 @@
 [About a PIN](../overview/glossary.md#pin).
 
 ::: tip
-If you forgot a PIN, set a new one. Your current PIN will be replaced with the new one.
+If you have forgotten your PIN, set a new one. Your current PIN will be replaced with the new one.
 :::
 
 ## Set PIN
 
-1. [Log in the Passcryptum](general.md#log-in-passcryptum).
+1. [Sign in the Passcryptum](general.md#sign-in-passcryptum).
 1. Click the <b>≡</b> icon.
 1. In the drop-down menu, click <b>Set PIN</b>.
 
@@ -22,7 +22,7 @@ If you forgot a PIN, set a new one. Your current PIN will be replaced with the n
 
 ## Delete PIN
 
-1. [Log in the Passcryptum](general.md#log-in-passcryptum).
+1. [Sign in the Passcryptum](general.md#sign-in-passcryptum).
 1. Click the <b>≡</b> icon.
 1. In the drop-down menu, click <b>Delete PIN</b>.
 

@@ -12,7 +12,7 @@ hero:
 
 features:
   - title: Get started
-    details: Start your of strong passwords journey with the Passcryptum
+    details: Start a journey of strong passwords with the Passcryptum
     link: '/overview/get-started'
   - title: How-tos
     details: Use the Passcryptum how-tos about every action

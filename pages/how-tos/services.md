@@ -4,7 +4,7 @@
 
 ## Add service
 
-1. [Log in the Passcryptum](general.md#log-in-passcryptum).
+1. [Sign in the Passcryptum](general.md#sign-in-passcryptum).
 1. On the main page, click <b>+</b> icon.
 
    If you are adding the first service, click <b>Create the first one</b>.
@@ -20,7 +20,7 @@
 
 ## Find service
 
-1. [Log in the Passcryptum](general.md#log-in-passcryptum).
+1. [Sign in the Passcryptum](general.md#sign-in-passcryptum).
 1. On the main page:
 
    1. Enter the service name in the search bar.

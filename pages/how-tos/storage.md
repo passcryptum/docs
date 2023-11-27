@@ -3,7 +3,7 @@
 ## Import services
 
 1. Transfer the file with services on the device you are importing them from.
-1. [Log in the Passcryptum](general.md#log-in-passcryptum).
+1. [Sign in the Passcryptum](general.md#sign-in-passcryptum).
 1. Click the <b>≡</b> icon.
 1. In the drop-down menu, click <b>Storage</b>.
 
@@ -12,7 +12,7 @@
 1. In the <b>Storage</b> pane:
 
    1. Go to <b>Import services from file</b> block.
-   1. Click <b>Select file</b>. The modal window with selecting the file will open.
+   1. Click <b>Select file</b>. The modal window with selecting the file will be opened.
 
       ![The Storage pane. The Import services from file block](../images/storage/import-from-file.png 'The Storage pane. The Import services from file block')
 
@@ -22,7 +22,7 @@ The services will be imported.
 
 ## Export services
 
-1. [Log in the Passcryptum](general.md#log-in-passcryptum).
+1. [Sign in the Passcryptum](general.md#sign-in-passcryptum).
 1. Click the <b>≡</b> icon.
 1. In the drop-down menu, click <b>Storage</b>.
 

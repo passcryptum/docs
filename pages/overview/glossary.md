@@ -2,7 +2,7 @@
 
 ## Passcryptum account
 
-An account that is linked to an [origin password](#origin-password). One account is linked to only one origin password.
+An account that is linked to the [origin password](#origin-password). One account is linked to only one origin password.
 
 ::: warning
 If you will use the different origin password, you will create another account.
@@ -13,11 +13,9 @@ If you will use the different origin password, you will create another account.
 An only strong password you will:
 
 - Remember.
-- Use to log in the Passcryptum.
+- Use to sign in the Passcryptum.
 
-[//]: # '> [Recommendations on creation of the origin password](docs/recommendations#origin-password).'
-
-> [Log in the Passcryptum](../how-tos/general.md#log-in-passcryptum)
+> [Sign in the Passcryptum](../how-tos/general.md#sign-in-passcryptum)
 
 ## Service
 
@@ -29,12 +27,12 @@ An account of a service you want to create a password for.
 
 ## PIN
 
-A sequence of digits, letters, and special characters that is equivalent to an origin password in a way to log in.
+A sequence of digits, letters, and special characters that is equivalent to an origin password in a way to signing in.
 
 Use a PIN, to secure an origin password. When you are logging in, someone may see it, or it may be recorded on a surveillance camera.
 
 ::: warning
-You will still need to know an origin password.
+You will still need to know the origin password.
 :::
 
 > [Set a PIN](../how-tos/pin.md#set-pin)
