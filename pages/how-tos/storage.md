@@ -7,14 +7,14 @@
 1. Click the <b>≡</b> icon.
 1. In the drop-down menu, click <b>Storage</b>.
 
-   ![The application menu. The Storage item](../images/storage/storage-menu-item.png 'The application menu. The Storage item')
+   ![The application menu. The Storage item](../images/storage/storage-menu-item.png 'The application menu. The Storage item'){.shadow-img}
 
 1. In the <b>Storage</b> pane:
 
    1. Go to <b>Import services from file</b> block.
    1. Click <b>Select file</b>. The modal window with selecting the file will be opened.
 
-      ![The Storage pane. The Import services from file block](../images/storage/import-from-file.png 'The Storage pane. The Import services from file block')
+      ![The Storage pane. The Import services from file block](../images/storage/import-from-file.png 'The Storage pane. The Import services from file block'){.shadow-img}
 
    1. In the modal window, select the file and confirm opening.
 
@@ -26,14 +26,14 @@ The services will be imported.
 1. Click the <b>≡</b> icon.
 1. In the drop-down menu, click <b>Storage</b>.
 
-   ![The application menu. The Storage item](../images/storage/storage-menu-item.png 'The application menu. The Storage item')
+   ![The application menu. The Storage item](../images/storage/storage-menu-item.png 'The application menu. The Storage item'){.shadow-img}
 
 1. In the <b>Storage</b> pane:
 
    1. Go to <b>Export services</b> block.
    1. Click <b>Download file</b>.
 
-   ![The Storage pane. The Export services block](../images/storage/export-download.png 'The Storage pane. The Export services block')
+   ![The Storage pane. The Export services block](../images/storage/export-download.png 'The Storage pane. The Export services block'){.shadow-img}
 
 The file will be downloaded. It has:
 

@@ -17,11 +17,11 @@ To run the application:
 1. [Sign in the Passcryptum](general.md#sign-in-passcryptum).
 1. In the address bar, click the PWA icon.
 
-   ![The PWA icon in the address bar](../images/pwa/install-icon.png 'The PWA icon in the address bar')
+   ![The PWA icon in the address bar](../images/pwa/install-icon.png 'The PWA icon in the address bar'){.shadow-img}
 
 1. In the <b>Install app?</b> popup, click <b>Install</b>.
 
-   ![The Install app? popup](../images/pwa/install-window.png 'The Install app? popup')
+   ![The Install app? popup](../images/pwa/install-window.png 'The Install app? popup'){.shadow-img}
 
 The application will open in a new window.
 
@@ -41,7 +41,7 @@ The application will open in a new window.
 
 ## Sign in Passcryptum
 
-![The main page. The password tab with the entered origin password](../images/general/sign-in-password.png 'The main page. The password tab with the entered origin password')
+![The main page. The password tab with the entered origin password](../images/general/sign-in-password.png 'The main page. The password tab with the entered origin password'){.shadow-img}
 
 ### Web application
 
@@ -70,4 +70,4 @@ The application will open in a new window.
 1. Click the <b>≡</b> icon.
 1. In the drop-down menu, click <b>Sign out</b>.
 
-![The application menu. The Sign out item](../images/general/sign-out-menu-item.png 'The application menu. The Sign out item')
+![The application menu. The Sign out item](../images/general/sign-out-menu-item.png 'The application menu. The Sign out item'){.shadow-img}
