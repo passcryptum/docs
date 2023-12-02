@@ -9,14 +9,14 @@
 
    If you are adding the first service, click <b>Create the first one</b>.
 
-   ![The main page, the button for adding the first service](../images/services/button-for-first.png 'The main page, the button for adding the first service')
+   ![The main page, the button for adding the first service](../images/services/button-for-first.png 'The main page, the button for adding the first service'){.shadow-img}
 
 1. In the <b>Service addition</b> window:
    1. Enter the service name.
    1. Enter the login for the service.
    1. Click <b>Continue</b>.
 
-![The Service addition window](../images/services/add-window.png 'The Service addition window')
+![The Service addition window](../images/services/add-window.png 'The Service addition window'){.shadow-img}
 
 ## Find service
 
@@ -25,8 +25,8 @@
 
    1. Enter the service name in the search bar.
 
-      ![The service search bar](../images/services/search-bar.png 'The service search bar')
+      ![The service search bar](../images/services/search-bar.png 'The service search bar'){.shadow-img}
 
    1. Select the service from the search bar drop-down list.
 
-![The service search result](../images/services/search-result.png 'The service search result')
+![The service search result](../images/services/search-result.png 'The service search result'){.shadow-img}
