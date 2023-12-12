@@ -7,7 +7,7 @@ hero:
   text: Open-source cryptographic password manager
   tagline: Remember only one password and have unique strong passwords for each of your accounts
   image:
-    src: images/main-screens.png
+    src: /favicon.svg
     alt: Main application screens
 
 features:
