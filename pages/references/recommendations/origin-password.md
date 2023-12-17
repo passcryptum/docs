@@ -8,9 +8,9 @@ It’s important to create a strong origin password. If a person can guess the p
 
 Use a string of random characters:
 
-* Latin alphabet.
-* Digits.
-* Special characters.
+- Latin alphabet.
+- Digits.
+- Special characters.
 
 To create a password:
 
@@ -25,8 +25,8 @@ Use the length from 8 characters. This length is strong enough.
 
 If you comply with the [Characters](#characters) and [Length](#length) sections, the number of possible passwords is 90⁸ = 4 304 672 100 000 000, where:
 
-* 90 is the number of characters to use.
-* 8 is the length.
+- 90 is the number of characters to use.
+- 8 is the length.
 
 The strongest password length is 12 characters. Even hackers with powerful equipment won’t gain access to your accounts.
 

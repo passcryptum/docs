@@ -33,14 +33,20 @@ export default defineConfig({
           {
             text: 'Recommendations',
             items: [
-              { text: 'Origin password',  link: '/references/recommendations/origin-password' },
-              { text: 'Service',  link: '/references/recommendations/service' },
-              { text: 'PIN',  link: '/references/recommendations/pin' },
-              { text: 'Login',  link: '/references/recommendations/login' },
-              { text: 'Version',  link: '/references/recommendations/version' }
+              {
+                text: 'Origin password',
+                link: '/references/recommendations/origin-password',
+              },
+              { text: 'Service', link: '/references/recommendations/service' },
+              { text: 'PIN', link: '/references/recommendations/pin' },
+              { text: 'Login', link: '/references/recommendations/login' },
+              { text: 'Version', link: '/references/recommendations/version' },
             ],
           },
-          { text: 'Password generation algorithm', link: '/references/password-generation-algorithm' },
+          {
+            text: 'Password generation algorithm',
+            link: '/references/password-generation-algorithm',
+          },
         ],
       },
     ],

@@ -14,8 +14,8 @@ This rule will allow you to remember the service names in case you have to resto
 
 Use default settings whenever it is possible:
 
-* The usage of special characters.
-* The length of 20 characters.
+- The usage of special characters.
+- The length of 20 characters.
 
 Some of the services have list of characters you can use and which you can’t. So if the service doesn’t accept special characters, disable the parameter.
 

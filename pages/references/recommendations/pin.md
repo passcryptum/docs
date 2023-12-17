@@ -10,9 +10,9 @@ If you have forgotten your PIN, set a new one.
 
 Use a string of random characters:
 
-* Latin alphabet.
-* Digits.
-* Special characters.
+- Latin alphabet.
+- Digits.
+- Special characters.
 
 To create a PIN:
 
@@ -32,4 +32,3 @@ Change your PIN from time to time. You can never say where a surveillance camera
 In a public place, use the PIN instead of the origin password.
 
 Use the origin password as frequently as the PIN to reduce the risk of forgetting your origin password.
-

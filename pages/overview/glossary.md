@@ -24,7 +24,7 @@ An only strong password you will:
 An account of a service you want to create a password for.
 
 > [Recommendations on creation of the service](../references/recommendations/service.md)
-> 
+>
 > [Add a service](../how-tos/services.md#add-service)
 >
 > [Find a service](../how-tos/services.md#find-service)
@@ -40,7 +40,7 @@ You will still need to know the origin password.
 :::
 
 > [Recommendations on creation of the PIN](../references/recommendations/pin.md)
-> 
+>
 > [Set a PIN](../how-tos/pin.md#set-pin)
 >
 > [Delete a PIN](../how-tos/pin.md#delete-pin)
