@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'Passcryptum',
   description: 'Cryptographic password manager',
+  head: [['link', { rel: 'icon', type: 'image/svg', href: '/favicon.svg' }]],
   outDir: '../dist',
   themeConfig: {
     nav: [
